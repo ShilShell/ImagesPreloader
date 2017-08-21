@@ -1,0 +1,19 @@
+{
+    "files": [
+        "src/ImagesDownloader.ts"
+    ],
+    "compilerOptions": {
+        "target": "es5",
+        "module": "commonjs",
+        "sourceMap": false,
+        "removeComments": false,
+        "emitDecoratorMetadata": true,
+        "experimentalDecorators": true,
+        "moduleResolution": "node",
+        "noImplicitAny": false,
+        "outDir": "dist"
+    },
+    "exclude": [
+        "node-modules"
+    ]
+}

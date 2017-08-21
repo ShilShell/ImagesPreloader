@@ -1,0 +1,21 @@
+{
+  "name": "pre-download-images",
+  "version": "1.0.0",
+  "description": "Pre Download Images",
+  "main": "ImagesDownloader.js",
+  "scripts": {
+    "build": "node bundle.js"
+  },
+  "keywords": [
+    "predownload",
+    "images"
+  ],
+  "author": "Shiljo Paulson",
+  "license": "ISC",
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-typescript": "^3.2.1",
+    "typescript": "^2.4.2",
+    "uglify-js": "^3.0.27"
+  }
+}
